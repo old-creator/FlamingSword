@@ -152,8 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
-    <ClInclude Include="resource1.h" />
-    <ClInclude Include="resource2.h" />
+    <ClInclude Include="trusted.hpp" />
     <ClInclude Include="wapi.hpp" />
   </ItemGroup>
   <ItemGroup>
